@@ -5,7 +5,7 @@
 ### if want to run on virtualenv
 ####  `1)` Install **virtualenv**
 		a) pip install pipenv
-		b)	virtualenv {env_name} -p C:\python36\python.exe 
+		b) virtualenv {env_name} -p C:\python36\python.exe 
 		c)\Scripts\activate
 	
 
