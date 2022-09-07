@@ -1,7 +1,15 @@
 # ADX_DJANGO_PROJECT
+# ADX calculation DJANGO Project
+
+## heroku live deployment
+link
+
+`https://adxproject.herokuapp.com`
+`http://adxproject.herokuapp.com`
 
 
-# 	ADX calculation DJANGO Project
+## RUN ON LOCAL SYSTEM refer below
+
 ### if want to run on virtualenv
 ####  `1)` Install **virtualenv**
 		a) pip install pipenv
